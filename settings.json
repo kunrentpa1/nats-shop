@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe"
+    "php.validate.run": "onType",}
